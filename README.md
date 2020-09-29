@@ -21,7 +21,7 @@ python get_data.py --data_name NTU_xview_values
 @inproceedings{MLGCN,
   author    = {Ahmed Mazari and Hichem Sahbi},
   title     = {MLGCN: Multi-Laplacian Graph Convolutional Networks for Human Action Recognition},
-  booktitle = {30th British Machine Vision Conference 2019, {BMVC} 2019, Cardiff, UK, September 9-12, 2019},
+  booktitle = {30th British Machine Vision Conference (BMVC)},
   pages     = {281},
   publisher = {{BMVA} Press},
   year      = {2019},
