@@ -6,7 +6,7 @@ python get_data.py --data_name SBU --split 1
 
 # NTU skeletons : NTU_xview_values or NTU_xsub_values
 
-First download the skeleton representation from
+First download the skeleton representations from
 
 https://drive.google.com/file/d/1EhpKFlOAw_UqA2YMtETK6B0Eq9UYIQTO/view?usp=sharing
 
