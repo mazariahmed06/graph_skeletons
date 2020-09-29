@@ -1,4 +1,4 @@
-# graph_skeletons
+# Graph skeletons
 
 # SBU skeletons
 
