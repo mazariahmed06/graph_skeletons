@@ -25,10 +25,7 @@ python get_data.py --data_name NTU_xview_values
   pages     = {281},
   publisher = {{BMVA} Press},
   year      = {2019},
-  url       = {https://bmvc2019.org/wp-content/uploads/papers/1103-paper.pdf},
-  timestamp = {Tue, 21 Apr 2020 23:13:25 +0200},
-  biburl    = {https://dblp.org/rec/conf/bmvc/MazariS19.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  url       = {https://bmvc2019.org/wp-content/uploads/papers/1103-paper.pdf}
 }
 
 
